@@ -1,7 +1,3 @@
-package test;
-
-import modelo.BancoCola;
-import modelo.Cliente;
 import org.junit.jupiter.api.Test;
 import java.time.LocalTime;
 import static org.junit.jupiter.api.Assertions.*;
