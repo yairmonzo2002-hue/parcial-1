@@ -94,8 +94,13 @@ cola vacía al atender clientes
 
 Ejemplo:
 Error: La identificación debe tener solo números
+
+Capturas de pantalla de la ejecución del menú:
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d6d5b97a-b5bd-4218-b510-9d54aee4983e" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/240fc47a-e916-4d52-95b3-48e67040fadc" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b8c9f272-e8a4-4813-b8fe-874a8403b118" />
 
+DIAGRAMA UML
+<img width="1683" height="934" alt="ChatGPT Image 7 may 2026, 09_39_03 p m" src="https://github.com/user-attachments/assets/51c17e0a-7426-4c89-a21f-2848d9f52b53" />
 
