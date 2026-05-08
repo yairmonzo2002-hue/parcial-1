@@ -23,7 +23,11 @@ El programa permite:
 6. Vaciar completamente la cola
 7. salrir
 
+Estructura del proyecto
 
-9. Salir del sistema
+Cliente.java
+BancoCola.java
+Main.java
+BancoColaTest.java
+README.md
 
----
